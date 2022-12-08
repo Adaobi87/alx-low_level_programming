@@ -3,6 +3,8 @@
 /**
  * main - Entry point
  *
+ * returns Hello,printf
+ *
  * Return - Always 0 (success)
  */
 int main(void)
