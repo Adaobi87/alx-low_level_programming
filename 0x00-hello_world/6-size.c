@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Receives no argument value.
+ * main - Entry point
  *
  * return: Always 0 (Success)
  */
