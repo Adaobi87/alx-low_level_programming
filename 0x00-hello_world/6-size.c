@@ -3,6 +3,8 @@
 /**
  * main - Entry point
  *
+ * description- prints all sizes of data type
+ *
  * return: Always 0 (Success)
  */
 
