@@ -1,12 +1,6 @@
 #include <stdio.h>
 
-/**
- * main - Entry point
- *
- * returns Hello,printf
- *
- * Return - Always 0 (success)
- */
+/* Prints this is a piece of art */
 
 int main(void)
 {
