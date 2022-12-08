@@ -1,6 +1,11 @@
 #include <stdio.h>
 
-/* Prints this is a piece of art */
+/**
+ * main - print the script
+ * 
+ * description - print with proper grammar, but the outcome is a piece of art
+ *
+ * return - Always 0 (Success)
 
 int main(void)
 {
