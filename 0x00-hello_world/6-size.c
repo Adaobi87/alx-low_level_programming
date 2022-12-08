@@ -3,7 +3,9 @@
 /**
  * main - Entry point
  *
- * return: Always 0
+ *Description-prints the sizes of various type of data
+ *
+ * return:0 (Success)
  */
 int main(void)
 {
