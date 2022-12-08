@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
- *
- * Description- Prints various sizes of data types.
+ * main - Receives no argument value.
  *
  * return: Always 0 (Success)
  */
@@ -15,6 +13,8 @@ int main(void)
 	long long int c;
 	char d;
 	float f;
+
+
 	printf("Size of a char: %lu byte(s)\n", sizeof(d));
 	printf("Size of an int: %lu byte(s)\n", sizeof(a));
 	printf("Size of a long int: %lu byte(s)\n", sizeof(b));
