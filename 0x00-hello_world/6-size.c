@@ -1,9 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - Receives no argument value
+ * main - Entry point
  *
- * return: 0 (Success)
+ * Description: 'A C program that prints the size of various types of data on the computer'
+ *
+ * return: Always 0 (Success)
  */
 
 int main(void)
