@@ -1,7 +1,8 @@
 #include <stdio.h>
 
+
 /**
- * main - Entry point
+ * main - This is a program that determines various sizes of data type
  *
  * return: Always 0 (success)
  */
