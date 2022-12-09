@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints the sizes of various type of data
+ * main - Receives no argument value
  *
  * return: 0 (Success)
  */
