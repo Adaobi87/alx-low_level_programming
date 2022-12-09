@@ -2,9 +2,10 @@
 
 
 /**
- * main - This is a program that determines various sizes of data type
+ * main - Entry point
  *
  * return: Always 0 (success)
+ * This program prints the  various sizes of data type
  */
 int main(void)
 {
