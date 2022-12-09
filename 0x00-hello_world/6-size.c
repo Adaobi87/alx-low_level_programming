@@ -1,11 +1,9 @@
 #include <stdio.h>
 
 
-/**
+/*
  * main - Entry point
- *
  * return: Always 0 (success)
- * 
  *Description: This prints size of data type
  */
 
