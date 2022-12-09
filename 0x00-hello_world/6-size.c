@@ -1,11 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - This is a description of size of various types of data on the computer
+ * main - This is a description of size of various types of data
  *
- * return: Always 0 (Success)
+ *return:0 (success)
  */
-int main(void)
+
+ int main(void)
 {
 	int a;
 	long int b;
