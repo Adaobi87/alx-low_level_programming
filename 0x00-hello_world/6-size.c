@@ -5,8 +5,9 @@
  *
  *Description-prints the sizes of various type of data
  *
- * return:0 (Success)
+ * return: 0 (Success)
  */
+
 int main(void)
 {
 	int a;
