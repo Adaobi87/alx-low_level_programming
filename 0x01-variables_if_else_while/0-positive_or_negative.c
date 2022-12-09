@@ -5,18 +5,22 @@
 /**
  * main - prints the number stored in a variable
  *
- * return: returns to 0
+ * return: Always 0 (Success)
  */
 int main(void)
 {
 	int n;
+
+	srand(time(0));
 	n = rand() - RAND_MAX / 2;
+
 	if (n > 0)
-		printf("The number is positive: %d\n", n);
-	else if (n = 0)
-		printf("The number is zero: %d\n", n);
+		printf("%d is positive\n", n);
+	else if (n == 0)
+		printf("%d is zero\n", n);
 	else 
-		printf("The number is negative: %d\n", n);
+		printf("%d is negative\n", n);
+	
 	return (0);
 }
 		
