@@ -6,7 +6,6 @@
  * return: Always 0 (success)
  *Description: This prints size of data type
  */
-
 int main(void)
 {
 	int a;
