@@ -2,12 +2,10 @@
 
 /**
  * main - Entry point
- *
- * Description: 'A C program that prints the size of various types of data on the computer'
+ * Description: prints the size of various types of data on the computer'
  *
  * return: Always 0 (Success)
  */
-
 int main(void)
 {
 	int a;
