@@ -3,7 +3,8 @@
 #include <time.h>
 
 /**
- * main - Entry point
+ * main_function - program runs to print last digit of
+ * the number stored in the variable n
  *
  * return - Always 0
  */
