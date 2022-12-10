@@ -19,17 +19,23 @@ int main(void)
 			{
 				putchar(d);
 				putchar(p);
-				putchar(q);
-
+				
 				if (d == '7' && p == '8')
 					continue;
+				
 				putchar(',');
 				putchar(' ');
 			}
 		}
 	}
-	
+	putchar('\n');
+	return (0);
 }
+			
+		
+	
+	
+
 
 
 				
