@@ -3,11 +3,14 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - assign a random number to int n each time
  *
- * return: Always 0 (success)
+ * it executes, and print either negative or positive
+ * number
+ *
+ * return: 0 Always (success)
  */
- int main(void)
+int main(void)
 {
 	int n;
 
