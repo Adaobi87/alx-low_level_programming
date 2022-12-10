@@ -1,17 +1,17 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 /**
  * main - Entry point
  *
  * return: Always 0 (success)
  */
-
 int main(void)
 {
-	char ch;
+	char low;
 
-	for (ch = 'a'; ch <= 'z'; ch++)
-		putchar(ch);
+	for (low = 'a'; low <= 'z'; low++)
+		putchar(low);
 		putchar('\n');
 		return (0);
 }
