@@ -14,14 +14,12 @@ int main(void)
 	{
 		putchar((d / 10) + '0');
 		putchar((d % 10) + '0');
-		
 			if (d != 99);
-			{
-				putchar(',');
-				putchar(' ');
-			}
+		{
+			putchar(',');
+			putchar(' ');
+		}
 	}
-
 	putchar('\n');
 	return (0);
 }
