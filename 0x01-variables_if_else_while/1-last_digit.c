@@ -4,7 +4,7 @@
 
 /**
  * main - assign a random number to interger n everytime
- * it executes, and prints it
+ * it executes, and prints last digit
  * return: 0 Always (success)
  */
 
