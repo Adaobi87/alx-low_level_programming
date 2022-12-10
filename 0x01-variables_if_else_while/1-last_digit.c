@@ -3,8 +3,9 @@
 #include <time.h>
 
 /**
- * main - Last digit of variable n
+ * main - assign a random number to interger n everytime
  *
+ * it exexutes and prints it
  * return - Always 0 (success)
  */
 
