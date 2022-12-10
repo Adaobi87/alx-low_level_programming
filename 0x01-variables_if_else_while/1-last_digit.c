@@ -5,7 +5,7 @@
 /**
  * main - assign a random number to interger n everytime
  *
- * it exexutes and prints it
+ * Description; it executes and prints it
  * return - Always 0 (success)
  */
 
