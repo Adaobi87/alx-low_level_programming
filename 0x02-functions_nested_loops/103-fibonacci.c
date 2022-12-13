@@ -19,6 +19,6 @@ int main(void)
 		if ((fibonacci[i] % 2) == 0 && fibonacci[i] < 400000)
 			sum += fibonacci[i];
 	}
-	printf("ld\n", sum);
+	printf("%ld\n", sum);
 	return (0);
 }
