@@ -2,10 +2,10 @@
 #include <stdlib.h>
 
 /**
- * main - Entry point
- *
- * return: Always 0 (success)
+ * main - prints the alphabet in lowercase
+ * return: returns 0
  */
+
 int main(void)
 {
 	char ch;
