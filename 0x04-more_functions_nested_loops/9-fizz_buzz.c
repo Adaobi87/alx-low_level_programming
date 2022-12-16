@@ -26,12 +26,15 @@ int main(void)
 		{
 			printf(" FizzBuzz ");
 		}
-		else  
+		else if (i == 1)
 		{
 			printf("%d", i);
 		}
+		else
+		{
+			printf(" %d", i);
+		}
 	}
-	print (" ");
 	printf("\n");
 	return (0);
 }
