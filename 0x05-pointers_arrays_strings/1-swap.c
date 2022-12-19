@@ -2,12 +2,14 @@
 
 /**
   * swap_int - swap the value of two integers
-  * @a: the first input integer
-  * @b: the second input integer
+  * @a: parameter 1
+  * @b: parameter 2
   */
-void swap_int(int *a, int *b);
+void swap_int(int *a, int *b)
 {
-	int c = *a;
+	int tmp;
+
+	tmp = *a;
 	*a = *b;
-	*b = c;
+	*b = tmp;
 }
