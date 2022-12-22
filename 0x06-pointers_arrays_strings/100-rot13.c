@@ -26,11 +26,9 @@ char *rot13(char *s)
 			if (r1[rotation] == s[stringCount])
 			{
 				s[stringCount] = r2[rotation];
-				{
-					break;
-				}
+				break;
 			}
 		}
 	}
+	return (s);
 }
-
