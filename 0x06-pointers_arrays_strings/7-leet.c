@@ -7,8 +7,10 @@
   * Letters o and O should be replaced by 0
   * Letters t and T should be replaced by 7
   * Letters l and L should be replaced by 1
+  * @s: pointer to string
+  * Return: pointer to s
   */
-char *leet(char *)
+char *leet(char *s)
 {
 	int stringCount, leetCount;
 	char leetLetters[] = "aAeEoOtTlL";
@@ -20,7 +22,7 @@ char *leet(char *)
 		leetCount = 0;
 		while (leetCount < 10)
 		{
-			if (leetLetters[leetCount]== s[stringCount])
+			if (leetLetters[leetCount] == s[stringCount])
 			{
 				s[stringCount] = leetNums[leetCount];
 			}
@@ -28,4 +30,4 @@ char *leet(char *)
 		}
 		return (s);
 	}
-
+}
